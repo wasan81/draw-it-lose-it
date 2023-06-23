@@ -4,6 +4,7 @@ Creative Technology Solutions (CTS) has recently taken on a new client, The Gami
  We need to prepare a software design document and begin developing the game application, addressing their software requirements such as making a game ability one or more teams with multiple players for each team. Also, the game and team must be unique to allow users to check whether a name is in use when choosing a team name.
 
 # What did you do particularly well in developing this documentation?
+I helped The Gaming Room expand their software by creating detailed documentation. This involved analyzing system architectures, selecting an operating platform, managing storage and memory, establishing communication between platforms, and prioritizing user protection and security.
 # What about the process of working through a design document did you find helpful when developing the code?
 UML is a way to visually represent an application's design using shapes and diagrams. It helps me understand code relationships and how data fits together. Commercial tools can translate UML diagrams into code.
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
